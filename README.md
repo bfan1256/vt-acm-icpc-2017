@@ -9,8 +9,8 @@ Martin)
 ## Things To Note
 
 * Code is divided up into languages
-* General parsers are implemented in `general.py`, `general.java`, and
-  `general.cs`.
+* General parsers are implemented in `python/general.py`, `java/general.java`,
+  and `c-sharp/general.cs`.
 * Proper documentation must be made for each function and file created.
 * **No import statements are allowed**
 
