@@ -10,5 +10,5 @@ def read_input(input_string, cases_from_first_line=True, length_per_case=None):
     for case in range(1, cases + 1):
         start_index = end_index
         end_index = length_per_case * case + 1
-        case_data.append(lines[start_index:end_index)
+        case_data.append(lines[start_index:end_index))
     return case_data
