@@ -6,7 +6,7 @@ Description: Code repository for solutions to
 Authors: bfan1256 (Brandon Fan), vtsman (Spencer Martin), tacoguy56 (Grant
 Martin)
 
-## Folder Structure
+## Things To Note
 
 * Code is divided up into languages
 * General parsers are implemented in `general.py`, `general.java`, and
