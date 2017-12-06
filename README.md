@@ -1,5 +1,3 @@
-<div style="display: block; text-align:center" align="center"><img alt="BHS Logo" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi-_LzuifTXAhWqSd8KHfKlDO4QjRwIBw&url=https%3A%2F%2Ftwitter.com%2Fbburghsbruins&psig=AOvVaw0jd0jFrvPpOcwFqlFvZ7jC&ust=1512604724026009" /></div>
-
 # VT ACM-ICPC John von Neumeme 2017 Repository
 
 Description: Code Repository For Solutions To
