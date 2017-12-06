@@ -1,6 +1,6 @@
 # VT ACM-ICPC John von Neumeme 2017 Repository
 
-Description: Code Repository For Solutions To
+Description: Code repository for solutions to
 [VT ACM ICPS 2017 Problems](https://icpc.cs.vt.edu).
 
 Authors: bfan1256 (Brandon Fan), vtsman (Spencer Martin), tacoguy56 (Grant
